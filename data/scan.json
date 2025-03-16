@@ -1,0 +1,8 @@
+{
+    "dict": [
+        "http://10.10.11.58/.htpasswd",
+        "http://10.10.11.58/.git/HEAD",
+        "http://10.10.11.58/.hta",
+        "http://10.10.11.58/.htaccess"
+    ]
+}
